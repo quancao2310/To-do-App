@@ -1,0 +1,19 @@
+.item-todo {
+    background-color: white;
+    border-radius: 0.5rem;
+    height: 8rem;
+    width: 18rem;
+    margin: 0 1rem 1rem 0;
+    padding: 1.3rem;
+}
+
+.item-textarea {
+    color: black;
+    background-color: inherit;
+    font-size: 1.2rem;
+    height: 70%;
+    width: 100%;
+    padding: 0;
+    border: none;
+    resize: none;
+}

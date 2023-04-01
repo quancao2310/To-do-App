@@ -1,0 +1,6 @@
+.list-todos {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 40px 10px;
+}
